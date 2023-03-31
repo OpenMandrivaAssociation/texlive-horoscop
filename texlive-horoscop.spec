@@ -1,6 +1,6 @@
 Name:		texlive-horoscop
 Version:	56021
-Release:	1
+Release:	2
 Summary:	Generate astrological charts in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/horoscop
