@@ -3,7 +3,7 @@ Version:	56021
 Release:	2
 Summary:	Generate astrological charts in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/horoscop
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/horoscop
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/horoscop.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/horoscop.doc.r%{version}.tar.xz
